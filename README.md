@@ -1,3 +1,7 @@
+# 🎓 [Join the Course on Udemy – AI Programming with GitHub Copilot in VS Code for Beginners](https://www.udemy.com/course/ai-programming-github-copilot-in-vs-code/?referralCode=2A661C4F63101C630496)
+
+---
+
 # AI Programming with GitHub Copilot in VS Code for Beginners
 
 Learn how to write code faster, smarter, and more efficiently using GitHub Copilot in Visual Studio Code. This course is designed for beginners who want to explore AI-assisted coding tools and understand how artificial intelligence can be used in modern software development workflows.
@@ -36,10 +40,7 @@ This course is perfect for:
 - GitHub account (free tier is enough)
 - No prior programming experience required
 
-## 🔍 Keywords for Search (SEO)
-
+## 🔍 Keywords
 `GitHub Copilot tutorial`, `AI programming course`, `VS Code for beginners`, `GitHub Copilot beginners`, `AI coding assistant`, `learn GitHub Copilot`, `AI code generation`, `programming with AI`, `GitHub Copilot JavaScript`, `GitHub Copilot Python`
 
 ---
-
-Explore how artificial intelligence can become your coding partner. Start learning today!
